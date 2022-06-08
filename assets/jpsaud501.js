@@ -5,7 +5,7 @@ import behance from '../medias/behance.png'
 const items = [
 {
   "title": "GitHub",
-  "subtitle": "A casa dos meus projetos relacionados a programação! Desde meus primeiros códigos até os mais recentes, tudo está lá! 👨‍💻",
+  "subtitle": "A casa dos meus projetos relacionados a programação! Desde os meus primeiros códigos até os mais recentes, tudo está lá! 👨‍💻",
   "image": github,
   "link": "https://github.com/JPSAUD501" //Github Profile link
 },
