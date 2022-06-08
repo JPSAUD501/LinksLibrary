@@ -1,7 +1,8 @@
 import Header from '../components/header'
 import Footer from '../components/footer'
 import Card from '../components/card'
-import items from '../assets/itens'
+import items from '../assets/jpsaud501'
+import avatar from '../medias/avatars/jpsaud501.jpg'
 import Head from 'next/head'
 
 export default function App() {
@@ -10,7 +11,7 @@ export default function App() {
           <Head>
             <title>João Pedro</title>
           </Head>
-          <Header></Header>
+          <Header avatar={avatar} name={"João Pedro"}></Header>
           <div className="container row">
               {
                   items.map((item, i) => {
@@ -28,7 +29,7 @@ export default function App() {
                   })
               }
           </div>
-          <Footer></Footer>
+          <Footer love={true}></Footer>
       </div>
     )
 }

@@ -4,10 +4,10 @@ import behance from '../medias/behance.png'
 
 const items = [
 {
-    "title": "GitHub",
-    "subtitle": "A casa dos meus projetos relacionados a programação! Desde meus primeiros códigos até os mais recentes, tudo está lá! 👨‍💻",
-    "image": github,
-    "link": "https://github.com/JPSAUD501" //Github Profile link
+  "title": "GitHub",
+  "subtitle": "A casa dos meus projetos relacionados a programação! Desde meus primeiros códigos até os mais recentes, tudo está lá! 👨‍💻",
+  "image": github,
+  "link": "https://github.com/JPSAUD501" //Github Profile link
 },
 {
   "title": "Behance",
@@ -16,10 +16,10 @@ const items = [
   "link": "https://www.behance.net/JPSAUD501"
 },
 {
-    "title": "LinkedIn",
-    "subtitle": "Basicamente o meu currículo! 👨‍💼",
-    "image": linkedin,
-    "link": "https://www.linkedin.com/in/JPSAUD501/"
+  "title": "LinkedIn",
+  "subtitle": "Basicamente o meu currículo! 👨‍💼",
+  "image": linkedin,
+  "link": "https://www.linkedin.com/in/JPSAUD501/"
 },
 ]
 
