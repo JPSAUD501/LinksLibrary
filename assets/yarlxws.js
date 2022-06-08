@@ -4,7 +4,7 @@ import behance from '../medias/behance.png'
 const items = [
 {
   "title": "Behance",
-  "subtitle": "Falta criar descrição!",
+  "subtitle": "Posto alguns de meus projetos relacionados a área de Design Gráfico por lá! Você está mais que convidado(a) para dar uma olhada! Espero que goste! 😅",
   "image": behance,
   "link": "https://www.behance.net/yarleidrummond"
 },
